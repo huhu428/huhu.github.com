@@ -1,0 +1,349 @@
+.m-example {
+    height: 1204px;
+    opacity: .5;
+    width: 1252px;
+    position: absolute;
+}
+.m-example img {
+    width: 100%;
+}
+li{
+    display: block;
+}
+.m-top>li {
+    margin-left: 544px;
+}
+.m-top {
+    display: block;
+    padding-left: 124px;
+    padding-top: 48px;
+    margin-bottom: 54px;
+}
+.m-top img {
+    height: 320px;
+    width: 492px;
+    float: left;
+}
+.m-top span {
+    width: 48%;
+    float: left;
+}
+.m-xian {
+    border-bottom: 4px solid blue;
+    width: 50px;
+    height: 44px;
+    margin-top: -26px;
+    margin-left: 542px;
+}
+.m-ta {
+    font-size: 22px;
+    letter-spacing: 7.5px;
+    margin-top: 17px;
+    padding-left: 2px;
+}
+li.m-top  {
+    margin-left: 544px;
+}
+p.m-hui {
+    font-size: 20px;
+    letter-spacing: 3.1px;
+    line-height: 32px;
+    margin-top: 33px;
+    width: 450px;
+    word-wrap: break-word;
+    margin-left: 543px;
+}
+.m-bo {
+    height: 41px;
+    width: 178px;
+    background-color: #0169b2;
+    font-size: 27px;
+    margin-top: 30px;
+    border-radius: 5px;
+    margin-left: 542px;
+    padding-left: 21px;
+    letter-spacing: 1px;
+    color: #fbffff;
+}
+.m-bott {
+    padding-left: 714px;
+    margin-top: -55px;
+    font-size: 21px;
+    color: #fbffff;
+}
+.b-log {
+    width: 1001px;
+    margin-left: 126px;
+    border-bottom: 2px solid #dddddd;
+    height: 69px;
+    padding-top: 33px;
+}
+li.b-b {
+    padding-left: 1px;
+    font-size: 30px;
+    font-weight: bolder;
+    letter-spacing: 1.1px;
+    float: left;
+    margin-top: 1px;
+}
+li.b-sx {
+    border-left: 4px solid;
+    margin-left: 90px;
+    height: 18px;
+    margin-top: 13px;
+}
+li.b-k {
+    margin-left: 116px;
+    margin-top: -20px;
+    font-size: 19px;
+    letter-spacing: 6px;
+}
+.b-y {
+    width: 110px;
+    height: 28px;
+    margin-left: 850px;
+    margin-top: -30px;
+    border-radius: 5px;
+    background-color: #0169b2;
+    font-size: 19px;
+    padding-left: 40px;
+    letter-spacing: 2.4px;
+    color: #fbffff;
+    padding-top: 6px;
+}
+span.b-bott {
+    left: 1107px;
+    top: 453px;
+    font-size: 18px;
+    color: #fbffff;
+    position: absolute;
+}
+
+.m-box {
+    height: 87px;
+    margin-left: 125px;
+    border-bottom: 1px solid #efefef;
+    width: 1000px;
+}
+.m-b1 {
+    height: 97px;
+}
+li.m-ti {
+    padding-top: 45px;
+    font-size: 15px;
+    letter-spacing: -0.1px;
+}
+.m-blue {
+    width: 65px;
+    height: 23px;
+    margin-left: 112px;
+    margin-top: -23px;
+    border-radius: 13px;
+    background-color: #0169b2;
+    font-size: 13px;
+    padding-left: 45px;
+    letter-spacing: 3px;
+    color: #fbffff;
+    padding-top: 4px;
+}
+li.m-gu {
+    width: 414px;
+    margin-top: -26px;
+    margin-left: 243px;
+    border-bottom: 1px solid;
+    font-size: 19px;
+    height: 20px;
+    letter-spacing: 4.4px;
+}
+li.m-tim {
+    padding-top: 35.3px;
+    font-size: 15px;
+    letter-spacing: -0.1px;
+}
+.m-gre {
+    width: 84px;
+    height: 23px;
+    margin-left: 112px;
+    margin-top: -23px;
+    border-radius: 13px;
+    background-color: #5aae73;
+    font-size: 13px;
+    padding-left: 26px;
+    letter-spacing: 4px;
+    color: #fbffff;
+    padding-top: 4px;
+}
+li.m-pin {
+    width: 414px;
+    margin-top: -25px;
+    margin-left: 244px;
+    border-bottom: 1px solid;
+    font-size: 19px;
+    height: 19px;
+    letter-spacing: 3.2px;
+}
+li.m-hw {
+    width: 446px;
+    margin-top: -25px;
+    margin-left: 244px;
+    border-bottom: 1px solid;
+    font-size: 19px;
+    height: 19px;
+    letter-spacing: 4.4px;
+}
+.m-bottom {
+    margin-top: 6.5px;
+    background-color: #f8f8f8;
+    height: 403.4px;
+    width: 1252px;
+    border-top: 13px solid #f8f8f8;
+}
+li.ta-sx {
+    border-left: 6px solid;
+    margin-top: 5px;
+    margin-left: 52px;
+    height: 32px;
+}
+.m-task {
+    color: #00449f;
+}
+li.ta-sx2 {
+    border-left: 6px solid;
+    margin-top: -28px;
+    margin-left: 662px;
+    height: 32px;
+}
+li.ta-dh {
+    margin-top: -35px;
+    font-size: 23px;
+    margin-left: 72px;
+    letter-spacing: 8px;
+}
+li.ta-web1 {
+    margin-left: 679px;
+    margin-top: -31px;
+    font-size: 19px;
+    letter-spacing: 1px;
+    font-weight: bolder;
+}
+li.ta-web2 {
+    margin-top: -28px;
+    margin-left: 730px;
+}
+div.bott-box {
+    width: 537px;
+    height: 316px;
+    margin-top: 23px;
+    margin-left: 51px;
+    border: 2px solid #e0e0e0;
+    float: left;
+    margin-right: 18px;
+}
+.b-zy {
+    padding-left: 170px;
+    font-size: 25px;
+    padding-top: 35px;
+    letter-spacing: 6.4px;
+}
+.b-te {
+    padding-left: 114px;
+    font-size: 41px;
+    font-weight: bolder;
+    padding-top: 7px;
+    letter-spacing: 1.6px;
+    color:#036eb4;
+}
+.b-xi {
+    padding-top: 20px;
+    padding-left: 130px;
+    font-size: 18px;
+    letter-spacing: 5px;
+}
+.b-qie {
+    padding-top: 5px;
+    padding-left: 147px;
+    font-size: 18px;
+    letter-spacing: 5px;
+}
+.b-so1 {
+    padding-top: 21px;
+    padding-left: 131px;
+    font-size: 20px;
+    letter-spacing: 8.5px;
+    color:#036eb4;
+}
+span.b-so2 {
+    padding-left: 4px;
+    margin-right: -4px;
+}
+span.b-so3 {
+    font-size: 18px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
+.b-yi {
+    padding-left: 104px;
+    padding-top: 22px;
+    font-size: 21px;
+    margin-top: 71px;
+    letter-spacing: 7px;
+    color: #fbffff;
+    margin-left: 53px;
+    background-color: #0169b2;
+    width: 326px;
+    height: 49px;
+    border-radius: 5px;
+}
+span.b-ji {
+    padding-left: 449px;
+    margin-top: -56px;
+    font-size: 30px;
+    color: #fbffff;
+    position: absolute;
+}
+.b-wy {
+    padding-left: 124.3px;
+    padding-top: 24px;
+    letter-spacing: 0.3px;
+}
+span.b-wyy {
+    padding-left: 5px;
+    letter-spacing: 6.2px;
+}
+.b-shi {
+    padding-left: 125px;
+    padding-top: 5px;
+}
+span.b-time {
+    padding-left: 3px;
+    font-size: 18px;
+    letter-spacing: 5px;
+}
+.b-guai {
+    padding-left: 162px;
+    padding-top: 5px;
+    font-size: 18px;
+    letter-spacing: 5px;
+}
+.bott-box img {
+    padding-left: 115px;
+    width: 27px;
+    height: 22px;
+    margin-top: -45px;
+    position: absolute;
+}
+.ta-yc {
+    background-color: #edf3f3;
+    height: 44px;
+    width: 176px;
+    top: 795px;
+    position: absolute;
+    left: 1084px;
+}
+li.b-xian {
+    width: 430px;
+    margin-top: 22px;
+    border-top: 1px solid;
+    margin-left: 53px;
+    color: #efefef;
+}

@@ -1,0 +1,44 @@
+body{
+    width:301px;
+    height: 200px;
+    border:1px solid;
+}
+.m-data {
+    margin-top: 25px;
+    height: 138px;
+}
+.u-content {
+    display: flex;
+    height: 25px;
+    border: 1px solid;
+    margin-left: 8px;
+    margin-bottom: 7px;
+    width: 281px;
+}
+.u-no {
+    height: 25px;
+    width: 27px;
+    border: 1px solid;
+    text-align: center;
+    margin-top: -1px;
+}
+.u-fang {
+    width: 202px;
+}
+.u-del {
+    width: 51px;
+    height: 25px;
+    border: 1px solid;
+    text-align: center;
+    margin-top: -1px;
+}
+.u-add {
+    height: 23px;
+    width: 93px;
+    border: 1px solid black;
+    margin-right: 10px;
+    background-color: #339966;
+    color: #ffffff;
+    text-align: center;
+    float: right;
+}

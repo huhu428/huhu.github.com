@@ -1,0 +1,38 @@
+body{
+    width:301px;
+    height: 200px;
+    border:1px solid;
+}
+.m-box {
+    display: flex;
+    margin-left: 4px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.box {
+    width: 44px;
+    height: 44px;
+    border: 1px solid;
+    background-color: #c0c0c0;
+    margin-left: 11px;
+    margin-bottom: 11px;
+}
+.u-box{
+    height: 173px;
+    width: 173px;
+    border: 1px solid;
+    position: absolute;
+    background-color: #ffffff;
+    top: 22px;
+    left: 89px;
+}
+.t-box {
+    width: 133px;
+    height: 133px;
+    border: 1px solid;
+    background-color: #808080;
+    margin: 18px;
+}
+.hide{
+    display: none;
+}

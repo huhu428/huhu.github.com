@@ -1,0 +1,225 @@
+.m-example {
+    height: 422px;
+    opacity: .5;
+    position:absolute;
+    width: 652px;
+}
+.m-example img {
+    width: 100%;
+}
+.g-bd {
+    width: 649px;
+    height: 420px;
+    background-color: #f2f2f2;
+    border: 1px solid #a1a1a1;
+    display: flex;
+    flex-wrap: wrap;
+}
+.m-box {
+    width: 206px;
+    height: 194px;
+    margin-left: 5px;
+    margin-top: 4px;
+    border: 1px solid #e9e9e9;
+}
+.m-left {
+    margin-left: 8px;
+}
+.m-top{
+    margin-top: 8px;
+}
+img.u-img {
+    width: 207px;
+}
+img.u-img_third {
+    width: 205px;
+}
+.m-row {
+    height: 10px;
+    margin-bottom: 5px;
+    margin-top: -3px;
+    display: flex;
+    letter-spacing: -4px;
+    padding-left: 6px;
+}
+li.u-di {
+    margin-right: 7px;
+}
+.m-row_two {
+    height: 27px;
+    display: flex;
+}
+li {
+    display: block;
+    font-size: 10px;
+}
+.m-row_two {
+    height: 27px;
+    display: flex;
+    margin-left: 6px;
+}
+img.u-lw {
+    margin-left: -1.5px;
+    width: 9px;
+    margin-top: 2px;
+}
+li.u-bk {
+    color: red;
+    letter-spacing: -3.4px;
+}
+li.u-bk_s {
+    color: red;
+    letter-spacing: -2.2px;
+    padding-left: 2px;
+}
+li.u-ds {
+    padding-left: 5.8px;
+    letter-spacing: -3.3px;
+}
+li.u-ds_s {
+    padding-left: 4.5px;
+    letter-spacing: -2.4px;
+}
+img.u-lw_t {
+    margin-left: -2px;
+    width: 9px;
+    margin-top: 4px;
+}
+li.u-bk_t {
+    color: red;
+    letter-spacing: -3px;
+}
+li.u-ds_t {
+    padding-left: 4px;
+    letter-spacing: -3.2px;
+}
+.u-xy_t {
+    margin-top: 6px;
+    margin-left: 5px;
+}
+li.u-dian {
+    padding-left: 2px;
+    letter-spacing: -0.5px;
+    margin-top: -1.4px;
+}
+li.u-dian_t {
+    padding-left: 2px;
+    letter-spacing: -0.5px;
+    margin-top: -0.5px;
+}
+li.u-qi_se {
+    color: red;
+    font-size: 20px;
+    padding-left: 1.5px;
+    margin-top: -0.4px;
+    letter-spacing: -0.4px;
+}
+li.u-qi_fi {
+    color: red;
+    margin-top: 8px;
+}
+li.u-qi_th {
+    letter-spacing: -2px;
+    margin-top: 10px;
+    padding-left: 3px;
+    text-decoration: line-through;
+}
+li.u-qi_fo {
+    margin-top: 11px;
+    color: red;
+    padding-left: 74px;
+    letter-spacing: -2.3px;
+}
+li.u-qi-fiv {
+    letter-spacing: -4px;
+    padding-left: 3px;
+    margin-top: 10px;
+}
+li.u-df {
+    margin-left: -2px;
+    letter-spacing: -3.8px;
+    margin-right: 10px;
+}
+li.u-az {
+    margin-left: -2px;
+    letter-spacing: -2.8px;
+    margin-right: 7.7px;
+}
+li.u-my {
+    margin-left: -2px;
+    letter-spacing: -3px;
+    margin-right: 7px;
+}
+li.u-cm {
+    margin-left: -2px;
+    letter-spacing: -3px;
+    margin-right: 7px;
+}
+li.u-cm {
+    margin-left: -2px;
+    letter-spacing: -3px;
+    margin-right: 9px;
+}
+li.u-cm_t {
+    margin-left: -4px;
+    letter-spacing: -2.4px;
+    margin-right: 9px;
+}
+li.u-xj {
+    margin-left: -2px;
+    letter-spacing: -4px;
+    margin-right: 9.7px;
+}
+li.u-t {
+    padding-left: 78px;
+}
+li.u-th {
+    margin-left: -5px;
+}
+li.u-fo {
+    margin-left: -12px;
+}
+li.u-fiv {
+    margin-left: -74px;
+}
+.u-xy {
+    margin-top: 6px;
+    margin-left: 5.4px;
+    letter-spacing: 0.8px;
+}
+li.u-bk_f {
+    color: red;
+    letter-spacing: -3.2px;
+}
+li.u-ds_f {
+    padding-left: 4.5px;
+    letter-spacing: -2.5px;
+}
+li.u-bk_fi {
+    color: red;
+    letter-spacing: -2.6px;
+}
+li.u-bk_six {
+    color: red;
+    letter-spacing: -4px;
+}
+li.u-ds_six {
+    padding-left: 5.5px;
+    letter-spacing: -3.3px;
+}
+img.u-im-f {
+    width: 12px;
+    margin-left: 68px;
+    margin-top: 14px;
+}
+img.u-im-sx {
+    width: 12px;
+    margin-left: 63px;
+    margin-top: 13px;
+}
+.u-six {
+    margin-left: -74px;
+}
+.u-left {
+    margin-left: -1px;
+}

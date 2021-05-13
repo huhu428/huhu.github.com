@@ -1,0 +1,23 @@
+.u-tab {
+    width: 56px;
+    height: 24px;
+    border: 1px solid;
+}
+.u-color {
+    background-color:#c0c0c0;
+}
+.m-top {
+    display: flex;
+}
+.m-con {
+    width: 183px;
+    height: 178px;
+    border: 1px solid;
+    color: #808080;
+    padding-left: 115px;
+    padding-top: 20px;
+    font-size: 116px;
+}
+.hide{
+    display: none;
+}

@@ -1,0 +1,12 @@
+$(function(){
+    $(".box").click(function(){
+        if($(".u-box").css("display")=="none"){
+            $(".u-box").show();
+        }
+        else
+        {
+            $(".u-box").hide();
+        }
+        $(".box").stopPropagation();
+    });
+});
